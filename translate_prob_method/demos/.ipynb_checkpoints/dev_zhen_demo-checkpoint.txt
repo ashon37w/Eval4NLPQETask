@@ -1,0 +1,10 @@
+f{src}	{hyp}
+f{src}	{hyp}
+f{src}	{hyp}
+f{src}	{hyp}
+f{src}	{hyp}
+f{src}	{hyp}
+f{src}	{hyp}
+f{src}	{hyp}
+f{src}	{hyp}
+f{src}	{hyp}

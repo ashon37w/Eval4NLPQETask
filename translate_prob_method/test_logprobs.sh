@@ -1,0 +1,2 @@
+python get_log_prob_p4.py --sent_bert --llama --save_dir "nh.tst.enzh.p4.3sbert.logprobs" --demo_num 3 --source_lang "English" --target_lang "Germany" --data_dir "../data/test/mt_en_de_test.tsv" --sent_bert_src "demos/deen_en_dev.txt"  --sent_bert_tgt "demos/deen_en_dev.txt"  --sent_bert_res "demos/ende_sbert.txt"
+python get_log_prob_p4.py --sent_bert --llama --save_dir "nh.tst.enzh.p4.3sbert.logprobs" --demo_num 3

@@ -1,0 +1,6 @@
+The development set contains all the dev/test files released up to 2020 (mostly using the sgm format) and the dev and test
+files from 2021 (using the xml format). 
+
+To extract text from the sgm formatted files, please use the tools in Moses (i.e. input-from-sgm.perl)
+
+To extract the text from the xml formatted files, use the tools from https://github.com/wmt-conference/wmt-format-tools

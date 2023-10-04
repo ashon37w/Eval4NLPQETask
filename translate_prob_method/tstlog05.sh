@@ -1,0 +1,1 @@
+python get_log_prob_p10.py --sent_bert --max_demo --model_name_or_path "../models/OpenOrca-Platypus2-13B" --save_dir "oop.tst.ende.p10.maxsbert.logprobs"  --source_lang "English" --target_lang "Germany" --data_dir "../data/test/mt_en_de_test.tsv" --sent_bert_src "demos/deen_en_dev.txt"  --sent_bert_tgt "demos/deen_de_dev.txt"  --sent_bert_res "demos/ende_sbert.txt"
